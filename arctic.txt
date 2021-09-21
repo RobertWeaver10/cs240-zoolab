@@ -5,7 +5,4 @@
 1 snowy owls
 4 walruses
 3 arctic foxes
-<<<<<<< HEAD
-=======
 14 yaks
->>>>>>> food
